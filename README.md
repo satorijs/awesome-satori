@@ -27,7 +27,7 @@
 ### Community
 
 - [satorijs/satori-rs](https://github.com/satorijs/satori-rs) - Rust implementation for Satori Protocol (Server & Client)
-- [Nyayurn/YurnSatoriFramework](https://github.com/Nyayurn/YurnSatoriFramework) - Java Bot Framework SDK with Satori Protocol
+- [Nyayurn/YurnSatoriFramework](https://github.com/Nyayurn/YurnSatoriFramework) - Java Bot SDK based on Satori Protocol (Client only)
 
 ## Bot Frameworks
 
