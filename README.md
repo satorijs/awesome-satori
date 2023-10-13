@@ -33,6 +33,7 @@
 
 - [Koishi](https://koishi.chat/) - Extensible chatbot framework based on Satori
 - [Nyayurn/YurnSatoriFramework](https://github.com/Nyayurn/YurnSatoriFramework) - Java Bot Framework SDK with Satori Protocol
+- [Nyayurn/YurnQbotFramework](https://github.com/Nyayurn/YurnQbotFramework) - Java **QQ** Bot Framework SDK based on Satori Protocol
 
 ## License
 
