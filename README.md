@@ -31,9 +31,10 @@
 
 ## Bot Frameworks
 
-- [Koishi](https://koishi.chat/) - Extensible chatbot framework based on Satori
-- [Nyayurn/YurnSatoriFramework](https://github.com/Nyayurn/YurnSatoriFramework) - Java Bot Framework SDK with Satori Protocol
-- [Nyayurn/YurnQbotFramework](https://github.com/Nyayurn/YurnQbotFramework) - Java **QQ** Bot Framework SDK based on Satori Protocol
+- [Koishi](https://koishi.chat/) - TypeScript extensible chatbot framework based on Satori
+- [Nonebot](https://nonebot.dev/) with [adapter-satori](https://github.com/nonebot/adapter-satori) - Python cross-platform bot framework
+- [Nyayurn/YurnSatoriFramework](https://github.com/Nyayurn/YurnSatoriFramework) - Java bot framework SDK with Satori Protocol
+- [Nyayurn/YurnQbotFramework](https://github.com/Nyayurn/YurnQbotFramework) - Java **QQ** bot framework SDK based on Satori Protocol
 
 ## License
 
