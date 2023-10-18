@@ -30,6 +30,7 @@
 - [satorijs/satori-rs](https://github.com/satorijs/satori-rs) - Rust implementation (Server & Client)
 - [dezhishen/satori-sdk-go](https://github.com/dezhishen/satori-sdk-go) - Go implementation (Client only)
 - [Nyayurn/YurnSatoriSdk](https://github.com/Nyayurn/YurnSatoriSdk) - Java Implementation (Client only)
+- [RF-Tar-Railt/satori-python](https://github.com/RF-Tar-Railt/satori-python) - Python Implementation (Client only)
 
 ## Bot Frameworks
 
