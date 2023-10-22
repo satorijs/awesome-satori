@@ -35,6 +35,7 @@
 | [Satori-Python](https://github.com/RF-Tar-Railt/satori-python) | [RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python |
 | [Satori-rs](https://github.com/satorijs/satori-rs)             | [Abrahum](https://github.com/Abrahum) | Rust |
 | [Satori-SDK-Go](https://github.com/dezhishen/satori-sdk-go)    | [Dezhishen](https://github.com/Dezhishen)  | Golang |
+| [Satori.NET](https://github.com/bsdayo/Satori.NET)             | [bsdayo](https://github.com/bsdayo) | .NET / C# |
 | [SPPS](https://github.com/im-patory/spps) w/ [Patory](https://github.com/im-patory/patory) | [Lipraty](https://github.com/Lipraty) | PHP |
 | [YurnSatoriSdk](https://github.com/Nyayurn/YurnSatoriSdk)      | [Nyayurn](https://github.com/Nyayurn) | Java |
 
