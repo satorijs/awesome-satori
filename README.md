@@ -37,7 +37,7 @@
 | [Satori-SDK-Go](https://github.com/dezhishen/satori-sdk-go)    | [Dezhishen](https://github.com/Dezhishen)  | Golang |
 | [Satori.NET](https://github.com/bsdayo/Satori.NET)             | [bsdayo](https://github.com/bsdayo) | .NET / C# |
 | [SPPS](https://github.com/im-patory/spps) w/ [Patory](https://github.com/im-patory/patory) | [Lipraty](https://github.com/Lipraty) | PHP |
-| [YurnSatoriSdk](https://github.com/Nyayurn/YurnSatoriSdk)      | [Nyayurn](https://github.com/Nyayurn) | Java |
+| [YurnSatoriSdk](https://github.com/Nyayurn/YurnSatoriSdk)      | [Nyayurn](https://github.com/Nyayurn) | Jvm / Java |
 
 ## Bot Frameworks
 
@@ -46,7 +46,8 @@
 | [Koishi](https://koishi.chat/) | Koishi Team | TypeScript | Chatbot framework based on Satori |
 | [Avilla](https://graia.cn/avilla/) w/ [avilla-satori](https://github.com/GraiaProject/Avilla/tree/ryanvk-v1.2/avilla/satori) | Avilla [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | The next-gen Python framework for IM development |
 | [NoneBot](https://nonebot.dev/) w/ [adapter-satori](https://github.com/nonebot/adapter-satori) | NoneBot [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | Python cross-platform bot framework |
-| [YurnQbotFramework](https://github.com/Nyayurn/YurnQbotFramework) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot framework SDK based on Satori Protocol
+| [YurnQbotFramework](https://github.com/Nyayurn/YurnQbotFramework) | [@Nyayurn](https://github.com/Nyayurn) | Jvm / Java | Java **QQ** bot framework SDK based on Satori Protocol |
+| [YurnQbotFramework-spring-boot-starter](https://github.com/Nyayurn/YurnQbotFramework-spring-boot-starter) | [@Nyayurn](https://github.com/Nyayurn) | Jvm / Java | Java **SpringBoot QQ** bot framework SDK based on Satori Protocol |
 
 ## License
 
