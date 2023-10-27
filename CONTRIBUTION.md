@@ -23,19 +23,33 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
 - 工具：帮助你提高 Satori 开发效率或者体验的软件、库、框架、插件等。
 - 文章：介绍 Satori 的原理、特性、优势、应用场景等方面的深入性或者广泛性的文章。
 
-在添加贡献内容时，有几点需要注意：
+### 实现、SDK 与 Framework
 
-- 请以项目名称按照英文首字母 A-Z 排序
+在添加 `implementation/SDK/Framework` 贡献内容时，我们将做出如下要求：
+
+- 实现、SDK 与 Framework 将分别放在表格中，有如下字段：
+   - `Name`: 您的项目名称，按照英文首字母 A-Z 排序（如果未做单独区分，官方项目将置顶）
+   - `Author`: 作者名称，也就是您（应当使用 name，而不是 username。因为 name 在 GitHub 中是唯一的）
+   - `Language`: 编写该项目的语言，请注意，**此处仅表示您编写该项目所用语言**
+- 请确保 `Name`、`Author` 均有一个地址指向相应主页
 - 如果您派生了多个项目（比如 implementation -> SDK），这些项目应当在同一个单元格中，并用 `w/` 表示从属关系
    - 例子：
       | Name | Author | Language |
       | ---  | ---    | ---      |
       | [SPPS](https://github.com/im-patory/spps) w/ [Patory](https://github.com/im-patory/patory) | [Lipraty](https://github.com/Lipraty) | PHP |
-- 我们要求同作者同语言下如果编写了多个项目，但它们均是同级关系，应当使用 `<br>` 来在一个单元格中放入多个项目
+- 同作者同语言下如果编写了多个项目，但它们均是同级关系，应当使用 `<br>` 来在一个单元格中放入多个项目
    - 例子：
       | Name | Author | Language |     |
       | ---  | ---    | ---      | --- |
       | [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) <br>[Yutori-QQ-SpringBootStarter](https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot framework SDK based on Satori Protocol |
+
+### 工具集
+
+TODO.
+
+### 教程与文章
+
+TODO.
 
 ## 贡献流程
 
@@ -48,7 +62,7 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
 - 检查您添加的内容是否有重复、失效或错误的链接，并及时修正或删除
 - 提交您的更改，并 push 到您的 fork 仓库
 - 在 GitHub 上创建一个 pull request，请求将您的分支合并到 awesome-satori 主分支
-  - 请保证 PR 标题格式：`Update: [project name]`
+   - 请保证 PR 标题格式：`Update: [project name]`
 - 在 pull request 的正文中简要说明您添加了什么内容，为什么认为它是 awesome 的，以及您是否遵循了以上的指南
 - 等待 awesome-satori 的维护者审核和回复您的 pull request，如果有必要，请根据反馈进行修改或补充
 
