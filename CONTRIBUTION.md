@@ -3,6 +3,8 @@
 `Awesome Satori` is a resource list that showcases various interesting topics in the Satori community, aiming to collect and share excellent resources related to Satori, including protocol implementations, SDKs, frameworks, tutorials, tools, and more, to help others learn, discover, and use Satori.
 To ensure quality and consistency, this document will describe in detail how you should contribute your work.
 
+English | [简体中文](./CONTRIBUTION-zh.md)
+
 ## Preparation
 
 Before contributing your work, we need some preparation:
