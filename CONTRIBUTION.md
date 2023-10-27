@@ -23,19 +23,32 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
 - 工具：帮助你提高 Satori 开发效率或者体验的软件、库、框架、插件等。
 - 文章：介绍 Satori 的原理、特性、优势、应用场景等方面的深入性或者广泛性的文章。
 
+在添加贡献内容时，有几点需要注意：
+
+- 请以项目名称按照英文首字母 A-Z 排序
+- 如果您派生了多个项目（比如 implementation -> SDK），这些项目应当在同一个单元格中，并用 `w/` 表示从属关系
+   - 例子：
+      | Name | Author | Language |
+      | ---  | ---    | ---      |
+      | [SPPS](https://github.com/im-patory/spps) w/ [Patory](https://github.com/im-patory/patory) | [Lipraty](https://github.com/Lipraty) | PHP |
+- 我们要求同作者同语言下如果编写了多个项目，但它们均是同级关系，应当使用 `<br>` 来在一个单元格中放入多个项目
+   - 例子：
+      | Name | Author | Language |     |
+      | ---  | ---    | ---      | --- |
+      | [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) <br>[Yutori-QQ-SpringBootStarter](https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot framework SDK based on Satori Protocol |
+
 ## 贡献流程
 
 如果您想要为本项目添加内容，请按照以下流程进行操作：
 
 - 将 fork 后的仓库 clone 到本地
 - 在本地创建一个新的分支，并在 readme.md 文件中添加您想要贡献的内容
-   - 我们所有列表排列均按照项目名称首字母排列（官方项目将置顶）
 - 在添加内容时，请遵循 Markdown 的语法和格式规范，使用正确的缩进、空格、标点符号等
 - 为每个添加的内容提供一个简短的描述，说明它是什么
 - 检查您添加的内容是否有重复、失效或错误的链接，并及时修正或删除
 - 提交您的更改，并 push 到您的 fork 仓库
 - 在 GitHub 上创建一个 pull request，请求将您的分支合并到 awesome-satori 主分支
-  - 请保证 PR 标题格式：Update: [project name]
+  - 请保证 PR 标题格式：`Update: [project name]`
 - 在 pull request 的正文中简要说明您添加了什么内容，为什么认为它是 awesome 的，以及您是否遵循了以上的指南
 - 等待 awesome-satori 的维护者审核和回复您的 pull request，如果有必要，请根据反馈进行修改或补充
 
