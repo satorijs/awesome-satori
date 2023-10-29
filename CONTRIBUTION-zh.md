@@ -28,9 +28,12 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
 
 ### 实现、SDK 与框架
 
-在添加 `Implementation/SDK/Framework` 贡献内容时，我们将做出如下要求：
+> [!NOTE]
+> 实现应当是仅协议的实现，SDK 与框架应当是基于协议实现的；SDK 与框架我们将统称为 `Framework`。
 
-- 实现、SDK 与 框架 将分别放在表格中，有如下字段：
+实现、SDK 与框架是本项目的主要内容，我们欢迎您为社区贡献这些内容。在贡献此类内容时，我们将做出如下要求：
+
+- 实现与框架将分别放在表格中，有如下字段：
    - `Name`: 您的项目名称，按照英文首字母 A-Z 排序（如果未做单独区分，官方项目将置顶）。
    - `Author`: 作者名称，也就是您（应当使用 name，而不是 username。因为 name 在 GitHub 中是唯一的）。
    - `Language`: 编写该项目的语言，请注意，**此处仅表示您编写该项目所用语言**。
@@ -42,14 +45,16 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
       | [SPPS](https://github.com/im-patory/spps) w/ [Patory](https://github.com/im-patory/patory) | [Lipraty](https://github.com/Lipraty) | PHP |
    - 上述例子中，`SPPS` 与 `Patory` 均是 `Lipraty` 的项目，且 `Patory` 是 `SPPS` 的依赖。
 - 同作者同语言下如果编写了多个项目，但它们均是同级关系，应当使用 `<br>` 来在一个单元格中放入多个项目；
+   - SDK 与框架应当在同一个单元格中，并用 `<br>` 隔开；
+   - 由于 `<br>` 会使得表格中的单元格高度增加，因此请尽量不要过分拆散，以保证每个单元格中的项目数量不超过 3 个；
    - 例子：
       | Name | Author | Language |     |
       | ---  | ---    | ---      | --- |
-      | [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) <br>[Yutori-QQ-SpringBootStarter](https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot 框架 SDK based on Satori Protocol |
+      | [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) <br>[Yutori-QQ-SpringBootStarter](https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot Framework SDK based on Satori Protocol |
    - 上述例子中，`Yutori-QQ` 与 `Yutori-QQ-SpringBootStarter` 均是 `Nyayurn` 的项目，且 `Yutori-QQ-SpringBootStarter` 与 `Yutori-QQ` 是同级关系。
 - 应当在自述文件 (README.md) 中详细描述您的项目；
   - 对于 Satori 协议的实现，您应当在自述文件中提供协议的版本号、协议的实现程度等信息；
-  - 对于 SDK 与 框架，您应当在自述文件中提供使用方法、示例代码、API 文档等信息。
+  - 对于 SDK 与框架，您应当在自述文件中提供使用方法、示例代码、API 文档等信息。
 
 ### 工具集
 
