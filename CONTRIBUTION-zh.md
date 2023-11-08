@@ -1,4 +1,4 @@
-# Contribution (Draft)
+# 贡献指南（草案）
 
 Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资源列表，旨在收集和分享与 Satori 相关优秀资源，包括协议实现、SDK、框架、教程、工具等，帮助其他人学习、发现和使用 Satori。
 
