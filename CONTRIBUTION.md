@@ -39,11 +39,17 @@ When adding `implementation/SDK/Framework` contribution content, we will make th
       | Name | Author | Language |
       | ---  | ---    | ---      |
       | SPPS w/ Patory | Lipraty | PHP |
-- If you have written multiple projects under the same author and language but they are all at the same level, you should use `<br>` to put multiple projects in same cell.
+- If you, as the same author in the same language, have written multiple projects that are at the same level, they should be placed in the same cell, separated by `<br>`;
+   - SDKs and Frameworks should be in the same cell, separated by `<br>`;
+   - As `<br>` increases the height of cells in the table, try not to split excessively to ensure that the number of projects in each cell does not exceed 3;
    - Example:
       | Name | Author | Language |     |
       | ---  | ---    | ---      | --- |
-      | Yutori-QQ <br>Yutori-QQ-SpringBootStarter | @Nyayurn | Java | Java **QQ** bot framework SDK based on Satori Protocol |
+      | [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) <br>[Yutori-QQ-SpringBootStarter](https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot Framework SDK based on Satori Protocol |
+   - In the example above, `Yutori-QQ` and `Yutori-QQ-SpringBootStarter` are both projects by `Nyayurn`, and `Yutori-QQ-SpringBootStarter` is at the same level as `Yutori-QQ`.
+- You should provide detailed descriptions of your projects in the README file:
+  - For implementations of the Satori protocol, include information such as the protocol version and the degree of protocol implementation.
+  - For SDKs and Frameworks, provide usage instructions, example code, API documentation, and other relevant information in the README file.
 
 ### Toolset
 
