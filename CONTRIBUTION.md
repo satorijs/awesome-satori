@@ -7,7 +7,7 @@ English | [简体中文](./CONTRIBUTION-zh.md)
 
 ## Preparation
 
-Before contributing your work, we need some preparation:
+Before contributing your work, you will have some prerequisites:
 
 - Have a GitHub account and fork this repository.
 - Have some understanding or interest in Satori and be willing to provide valuable information and help to the community.
