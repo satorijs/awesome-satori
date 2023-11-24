@@ -1,4 +1,4 @@
-# Contribution (Draft)
+# Contribution
 
 `Awesome Satori` is a curated list of various interesting topics in the Satori community, for collecting and sharing excellent resources related to Satori, including implementations, SDKs, frameworks, tutorials, tools, and more, to help others learn, discover, and use Satori.
 In order to maintain the high quality and consistency, this document introduce in detail how to contribute your work here.
@@ -90,5 +90,8 @@ After you've submitted a Pull Request, the maintainers will promptly review your
 Lastly, a big thank you for your efforts in contributing to the Satori community ecosystem! We hope you enjoy the contribution process and gain knowledge, enjoyment, and a sense of accomplishment. If you have any questions or feedback, feel free to open an issue to communicate with us.
 
 ------
+
+Version: 0.1.0
+Latest Updated: 2023-11-24
 
 [1]: `w/` is an abbreviation for `with`, indicating a subordinate relationship.
