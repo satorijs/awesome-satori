@@ -11,7 +11,7 @@ Before contributing your work, you will have some prerequisites:
 
 - A GitHub account that forked this repository.
 - Acknowledges or interests about Satori and you are willing to help others.
-- Ensure that the content you add is related to Satori and is of high quality, useful, interesting, or innovative.
+- Content that you are adding is related to Satori and either being of high quality, useful, powerful, or innovative.
 - Respect the original author's copyright and intellectual property rights and avoid adding any infringing or illegal content.
 
 ## Adding Content
