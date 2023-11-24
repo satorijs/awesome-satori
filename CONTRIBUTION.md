@@ -63,16 +63,16 @@ TODO.
 
 If you want to add content to this project, please follow these steps:
 
-- Clone the forked repository to your local machine.
-- Create a new branch locally and add the content you want to contribute in the readme.md file.
-- When adding content, please follow the Markdown syntax and format specifications, using correct indentation, spaces, punctuation marks, etc.
-- Provide a short description for each added content explaining what it is.
-- Check whether the content you added has duplicate, invalid or incorrect links and correct or delete them in time.
+- Clone the repository after forking it.
+- Create a new branch locally and add the content you wish to contribute to the `README.md` file.
+- When adding content, adhere to Markdown syntax and formatting guidelines, ensuring correct indentation, spacing, punctuation, etc.
+- Provide a brief description for each added content, explaining what it is.
+- Check for duplicate, invalid, or incorrect links in your additions and correct or remove them.
 - Commit your changes and push them to your forked repository.
-- Create a pull request on GitHub requesting to merge your branch into awesome-satori's main branch.
-   - Please ensure that the PR title format is: `Update: [project name]`.
-- In the body of the pull request briefly explain what content you added why you think it is awesome and whether you followed the above guidelines.
-- Wait for awesome-satori's maintainers to review and reply to your pull request if necessary please modify or supplement according to feedback.
+- Create a Pull Request on GitHub, requesting to merge your branch into the main branch.
+   - Ensure the PR title follows the format: `Update: [project name]`.
+- Briefly explain in the Pull Request body what content you added, why you believe it's awesome, and confirm that you've followed the guidelines above.
+- Wait for the maintainer to review and respond to your Pull Request. If necessary, make modifications or additions based on the feedback.
 
 ## Contribution Review
 
