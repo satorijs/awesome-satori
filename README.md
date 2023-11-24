@@ -1,7 +1,7 @@
 <div align="center">
   <h1 id="satori">Awesome Satori</h1>
   <p>A curated list of awesome things related to Satori</p>
-  <p>> How I should <a href="./CONTRIBUTION.md">CONTRIBUTION</a> <</p>
+  <p>&gt; <a href="./CONTRIBUTION.md">How to contribute this list.</a> &lt;</p>
 </div>
 
 ## Table of Contents

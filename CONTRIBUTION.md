@@ -12,33 +12,37 @@ Before contributing your work, you will have some prerequisites:
 - A GitHub account that forked this repository.
 - Acknowledges or interests about Satori and you are willing to help others.
 - Content that you are adding is related to Satori and either being of high quality, useful, powerful, or innovative.
-- Respect the original author's copyright and intellectual property rights and avoid adding any infringing or illegal content.
+- Obey the copyright or license or intellectual property rights of the original author, avoid adding any infringing or illegal content.
 
 ## Adding Content
 
-This project welcomes you to add any excellent resources related to Satori, including but not limited to the following types:
+We warmly welcome you to contribute any excellent resources related to Satori, including but not limited to the following types:
 
-- Satori protocol implementations.
+- Implementation of the Satori protocol.
 - SDKs: Development tools based on the Satori protocol.
-- Frameworks: Frameworks or applications that use the Satori protocol for communication.
-- Tutorials: Guided articles or videos on how to use Satori and Satori protocol implementations SDKs/Frameworks for development, deployment, testing, debugging, etc.
-- Tools: Software, libraries, frameworks, plugins, etc. that help you improve your Satori development efficiency or experience.
-- Articles: In-depth or extensive articles on the principles, features, advantages, application scenarios, etc. of Satori.
+- Frameworks: Communication frameworks and applications utilizing the Satori protocol.
+- Tutorials: Instructive articles or videos guiding development, deployment, testing, debugging, etc., using Satori and implementing SDKs or frameworks.
+- Tools: Software, libraries, frameworks, plugins, etc., designed to enhance your efficiency or experience in Satori development.
+- Articles: In-depth or comprehensive writings introducing the principles, features, advantages, and application scenarios of Satori.
 
 ### Implementations, SDKs and Frameworks
 
-When adding `implementation/SDK/Framework` contribution content, we will make the following requirements:
+> [!NOTE]
+> Implementations should be strictly protocol-based, while SDKs and frameworks should be built on the implemented protocol. For simplicity, we'll collectively refer to SDKs and frameworks as `Framework`.
 
-- Implementations, SDKs and Frameworks will be placed in tables separately with the following fields:
-   - `Name`: The name of your project, sorted by English alphabet A-Z (if not distinguished separately, official projects will be at the top)
-   - `Author`: The author name, which is you (should use name instead of username. Because name is unique on GitHub)
-   - `Language`: The language used to write the project. **This only indicates the language used to write the project**.
-- Please ensure that both `Name` and `Author` have an address pointing to the corresponding homepage.
-- If you have derived multiple projects (such as implementation -> SDK), these projects should be in the same cell and use `w/` to indicate the subordinate relationship.
+Implementations, SDKs, and Frameworks are the main content of this project, and we welcome your contributions to the community. When contributing such content, there are some requirements in the following:
+
+- Implementations, SDKs and Frameworks will be placed in separate tables, with the following fields:
+   - `Name`: Your project's name, sorted alphabetically from A-Z (official projects will be listed at the top if not individually distinguished).
+   - `Author`: Your name, i.e., your GitHub account name (use name instead of username, as the name is unique on GitHub).
+   - `Language`: The programming language in which the project is written; **This only indicates the language used to write the project.**
+- Ensure that both `Name` and `Author` have a link pointing to the respective homepage.
+- If you have derived multiple projects (e.g., Implementation -> SDK), these projects should be in the same cell, separated by `w/`<sup>[1]</sup>;
    - Example:
       | Name | Author | Language |
       | ---  | ---    | ---      |
-      | SPPS w/ Patory | Lipraty | PHP |
+      | [SPPS](https://github.com/im-patory/spps) w/ [Patory](https://github.com/im-patory/patory) | [Lipraty](https://github.com/Lipraty) | PHP |
+   - In the example above, `SPPS` and `Patory` are both projects by `Lipraty`, and `Patory` is a dependency of `SPPS`.
 - If you, as the same author in the same language, have written multiple projects that are at the same level, they should be placed in the same cell, separated by `<br>`;
    - SDKs and Frameworks should be in the same cell, separated by `<br>`;
    - As `<br>` increases the height of cells in the table, try not to split excessively to ensure that the number of projects in each cell does not exceed 3;
@@ -61,7 +65,7 @@ TODO.
 
 ## Contribution Process
 
-If you want to add content to this project, please follow these steps:
+If you would like to contribute to this project, please follow the steps below:
 
 - Clone the repository after forking it.
 - Create a new branch locally and add the content you wish to contribute to the `README.md` file.
@@ -76,11 +80,15 @@ If you want to add content to this project, please follow these steps:
 
 ## Contribution Review
 
-After submitting your pull request awesome-satori's maintainers will review your contribution as soon as possible and give you feedback and suggestions. Please note the following points:
+After you've submitted a Pull Request, the maintainers will promptly review your contribution and provide feedback and suggestions. Please keep the following in mind:
 
-- Your pull request may be accepted rejected modified or merged depending on whether the content you added meets the theme and quality standards of this project and whether you followed the requirements of this guide.
-- You may receive comments or questions from maintainers or other contributors please reply politely and provide necessary explanations or evidence.
-- If you receive suggestions for modification or supplementation please adjust as soon as possible and update your pull request. If you disagree with the suggestions please express them rationally and objectively and provide reasonable reasons or evidence.
-- If your pull request is accepted and merged please do not delete your forked repository or branch for subsequent updates and maintenance.
+- Your Pull Request may be accepted, rejected, modified, or merged, depending on whether the content you added aligns with the project's theme and quality standards, and if it adheres to the requirements outlined in this guide.
+- You might receive comments or questions from maintainers or other contributors. Please respond in a friendly and courteous manner, providing necessary explanations or evidence.
+- If you receive suggestions for modifications or additions, make adjustments promptly and update your Pull Request. If you disagree with the suggestions, express your opinions in a rational and objective manner, providing reasonable justifications or evidence.
+- If your Pull Request is accepted and merged, please refrain from deleting your forked repository or branch to facilitate future updates and maintenance.
 
-Finally thank you very much for your efforts to the satori community ecosystem! We hope you enjoy the contribution process and gain knowledge fun and a sense of accomplishment from it. If you have any questions or feedback please feel free to open an issue and communicate with us.
+Lastly, a big thank you for your efforts in contributing to the Satori community ecosystem! We hope you enjoy the contribution process and gain knowledge, enjoyment, and a sense of accomplishment. If you have any questions or feedback, feel free to open an issue to communicate with us.
+
+------
+
+[1]: `w/` is an abbreviation for `with`, indicating a subordinate relationship.
