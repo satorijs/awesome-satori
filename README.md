@@ -48,6 +48,12 @@
 | [NoneBot](https://nonebot.dev/) w/ [adapter-satori](https://github.com/nonebot/adapter-satori) | NoneBot [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | Python cross-platform bot framework |
 | [Yutori](https://github.com/Nyayurn/Yutori) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Java bot framework SDK based on Satori Protocol |
 
+## Development
+
+| Name | Author | Language | |
+| --- | --- | --- | --- |
+| [Logiri](https://github.com/ilharp/logiri) | [Il Harper](https://github.com/ilharp) | TypeScript | Connect Satori from Terminal |
+
 ## License
 
 This work is licensed under a [Creative Common Attribution 4.0 International License][cc-by].
