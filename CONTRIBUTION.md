@@ -1,7 +1,9 @@
 # Contribution
 
 `Awesome Satori` is a curated list of various interesting topics in the Satori community, for collecting and sharing excellent resources related to Satori, including implementations, SDKs, frameworks, tutorials, tools, and more, to help others learn, discover, and use Satori.
+
 In order to maintain the high quality and consistency, this document introduce in detail how to contribute your work here.
+If you found there are inconsistencies in the current content, we are encouraging you to [propose a Pull Request](https://github.com/satorijs/awesome-satori/pulls) to fix them.
 
 English | [简体中文](./CONTRIBUTION-zh.md)
 
