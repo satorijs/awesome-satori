@@ -37,7 +37,7 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
    - `Name`: 您的项目名称，按照英文首字母 A-Z 排序（如果未做单独区分，官方项目将置顶）。
    - `Author`: 作者名称，也就是您（应当使用 name，而不是 username。因为 name 在 GitHub 中是唯一的）。
    - `Language`: 编写该项目的语言，请注意，**此处仅表示您编写该项目所用语言**。
-   - `Description`: 该项目的一段简短描述，请尽量干练的表述（仅用于 `框架` 合集）。
+   - `Description`: 该项目的一段简短描述，请尽量干练地表述。
 - 请确保 `Name`、`Author` 均有一个地址指向相应主页。
 - 如果您派生了多个项目（比如 Implementation -> SDK），这些项目应当在同一个单元格中，并用 `w/`<sup>[1]</sup> 隔开；
    - 例子：
