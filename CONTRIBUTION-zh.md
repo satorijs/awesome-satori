@@ -2,7 +2,7 @@
 
 Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资源列表，旨在收集和分享与 Satori 相关优秀资源，包括协议实现、SDK、框架、教程、工具等，帮助其他人学习、发现和使用 Satori。
 
-为了保证质量和一致性，本篇文档将详细描述您应该如何贡献作品。
+为了保证质量和一致性，本篇文档将详细描述您应该如何贡献作品。由于列表中的大部分内容均为社区参与者编写，若存在与此文档的描述不一致的地方，我们鼓励你 [开启一个 Pull Request](https://github.com/satorijs/awesome-satori/pulls) 修复它们。
 
 [English](./CONTRIBUTION.md) | 简体中文
 
