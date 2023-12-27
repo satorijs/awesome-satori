@@ -37,6 +37,7 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
    - `Name`: 您的项目名称，按照英文首字母 A-Z 排序（如果未做单独区分，官方项目将置顶）。
    - `Author`: 作者名称，也就是您（应当使用 name，而不是 username。因为 name 在 GitHub 中是唯一的）。
    - `Language`: 编写该项目的语言，请注意，**此处仅表示您编写该项目所用语言**。
+   - `Description`: 该项目的一段简短描述，请尽量干练的表述（仅用于 `框架` 合集）。
 - 请确保 `Name`、`Author` 均有一个地址指向相应主页。
 - 如果您派生了多个项目（比如 Implementation -> SDK），这些项目应当在同一个单元格中，并用 `w/`<sup>[1]</sup> 隔开；
    - 例子：
@@ -48,7 +49,7 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
    - SDK 与框架应当在同一个单元格中，并用 `<br>` 隔开；
    - 由于 `<br>` 会使得表格中的单元格高度增加，因此请尽量不要过分拆散，以保证每个单元格中的项目数量不超过 3 个；
    - 例子：
-      | Name | Author | Language |     |
+      | Name | Author | Language |  Description  |
       | ---  | ---    | ---      | --- |
       | [Yutori-QQ](https://github.com/Nyayurn/Yutori-QQ) <br>[Yutori-QQ-SpringBootStarter](https://github.com/Nyayurn/Yutori-QQ-SpringBootStarter) | [@Nyayurn](https://github.com/Nyayurn) | Java | Java **QQ** bot Framework SDK based on Satori Protocol |
    - 上述例子中，`Yutori-QQ` 与 `Yutori-QQ-SpringBootStarter` 均是 `Nyayurn` 的项目，且 `Yutori-QQ-SpringBootStarter` 与 `Yutori-QQ` 是同级关系。
@@ -56,9 +57,11 @@ Awesome Satori 是用于展示 Satori protocol 社区中各种有趣主题的资
   - 对于 Satori 协议的实现，您应当在自述文件中提供协议的版本号、协议的实现程度等信息；
   - 对于 SDK 与框架，您应当在自述文件中提供使用方法、示例代码、API 文档等信息。
 
-### 工具集
+### 工具与开发工具集
 
-TODO.
+工具与开发工具指基于 `Satori 协议` 或 `Satori 框架` 编写的软件、库、插件等，用于提高 `Satori` 开发效率或使用体验。
+
+与 [实现、SDK 与框架](#实现sdk-与框架) 一样，这里的合集是一个表格，且拥有和其一致的格式与填写方式，这里不再赘述。
 
 ### 教程与文章
 
@@ -92,7 +95,8 @@ TODO.
 
 ---
 
-草案版本：0.1.0
-最后更新：2023-10-29
+版本：0.2.0
+
+最后更新：2023-12-27
 
 [1]: `w/` 是 `with` 的缩写，表示从属关系。
