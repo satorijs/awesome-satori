@@ -41,6 +41,7 @@
 
 | Name | Author |  Language |
 | --- | --- | --- |
+| [nitori](https://github.com/kawashiro-juukou/nitori) | [MaikoTan](https://github.com/MaikoTan) | Dart |
 | [Satori-Python](https://github.com/RF-Tar-Railt/satori-python) | [RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python |
 | [Satori-rs](https://github.com/satorijs/satori-rs)             | [Abrahum](https://github.com/Abrahum) | Rust |
 | [Satori-SDK-Go](https://github.com/dezhishen/satori-sdk-go)    | [Dezhishen](https://github.com/Dezhishen)  | Golang |
