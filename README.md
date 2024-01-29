@@ -30,6 +30,13 @@
 
 ### Community
 
+> [!WARNING]
+> There are several implementations of Satori Protocol for a variety of languages.
+> Here are just a few of them. Some implementations may or may not be up to date.
+> We have not verified whether they work.
+> We recommend authors to add a clear description of the current state of the implementation in their README.
+> If you find any problems, please submit an issue or pull request to the corresponding repository.
+
 <!--:x: / :white_check_mark:-->
 
 | Name | Author |  Language |
