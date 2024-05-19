@@ -54,6 +54,7 @@
 | --- | --- | --- | --- |
 | [Koishi](https://koishi.chat/) | Koishi Team | TypeScript | Chatbot framework based on Satori |
 | [Avilla](https://graia.cn/avilla/) w/ [avilla-satori](https://github.com/GraiaProject/Avilla/tree/ryanvk-v1.2/avilla/satori) | Avilla [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | The next-gen Python framework for IM development |
+| [Entari](https://github.com/ArcletProject/Entari) | ArcletProject [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | One simple IM framework based on Satori Protocol |
 | [NoneBot](https://nonebot.dev/) w/ [adapter-satori](https://github.com/nonebot/adapter-satori) | NoneBot [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | Python cross-platform bot framework |
 | [Yutori-Next](https://nyayurn.github.io/Yutori-Next/) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Kotlin bot framework SDK based on Satori Protocol |
 
