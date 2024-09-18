@@ -58,6 +58,13 @@
 | [NoneBot](https://nonebot.dev/) w/ [adapter-satori](https://github.com/nonebot/adapter-satori) | NoneBot [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | Python cross-platform bot framework |
 | [Yutori](https://github.com/Nyayurn/Yutori) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Kotlin Multiplatform framework for IM development |
 
+## Chat Applications
+
+| Name | Author | Language | Description |
+| --- | --- | --- | --- |
+| [YutoriApplication](https://github.com/Nyayurn/YutoriApplication) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Kotlin Multiplatform IM application based on Yutori and Satori |
+| [Satori-App](https://github.com/satorijs/satori-app) | Satori Team | TypeScript | The Universal Messenger |
+
 ## Development Tools
 
 | Name | Author | Language | Description |
