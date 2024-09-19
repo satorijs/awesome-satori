@@ -64,6 +64,7 @@
 | --- | --- | --- | --- |
 | [YutoriApplication](https://github.com/Nyayurn/YutoriApplication) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Kotlin Multiplatform IM application based on Yutori and Satori |
 | [Satori-App](https://github.com/satorijs/satori-app) | Satori Team | TypeScript | The Universal Messenger |
+| [Satori-Desktop](https://github.com/Lipraty/satori-desktop) | Satori Team | TypeScript | The universal and cross-platform chat application based on the Satori protocol. |
 
 ## Development Tools
 
