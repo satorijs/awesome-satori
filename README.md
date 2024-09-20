@@ -56,7 +56,7 @@
 | [Avilla](https://graia.cn/avilla/) w/ [avilla-satori](https://github.com/GraiaProject/Avilla/tree/ryanvk-v1.2/avilla/satori) | Avilla [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | The next-gen Python framework for IM development |
 | [Entari](https://github.com/ArcletProject/Entari) | ArcletProject [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | One simple IM framework based on Satori Protocol |
 | [NoneBot](https://nonebot.dev/) w/ [adapter-satori](https://github.com/nonebot/adapter-satori) | NoneBot [@RF-Tar-Railt](https://github.com/RF-Tar-Railt) | Python | Python cross-platform bot framework |
-| [Yutori](https://github.com/Nyayurn/Yutori) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Kotlin Multiplatform framework for IM development |
+| [Yutori](https://github.com/Nyayurn/yutori) w/ [Yutorix-Satori](https://github.com/Nyayurn/yutorix-satori) | [Nyayurn](https://github.com/Nyayurn) | Kotlin | Kotlin Multiplatform framework for IM development |
 
 ## Chat Applications
 
